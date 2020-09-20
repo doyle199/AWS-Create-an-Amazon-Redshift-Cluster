@@ -31,4 +31,4 @@ Name the cluster. Choose dc2.large for the node tyoe in the comute optimized sec
 
 ![alt text](https://github.com/doyle199/AWS-Create-an-Amazon-Redshift-Cluster/blob/master/Cluster_Node_Size.png)
 
-
+TO BE CONTINUED
