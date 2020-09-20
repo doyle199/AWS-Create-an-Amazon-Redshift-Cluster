@@ -73,7 +73,7 @@ To load sample data from Amazon S3, run the following create table statements as
 
 ![alt text](https://github.com/doyle199/AWS-Create-an-Amazon-Redshift-Cluster/blob/master/create_table_2.png)
 
-![alt text](https://github.com/doyle199/AWS-Create-an-Amazon-Redshift-Cluster/blob/master/create-table_3.png)
+![alt text](https://github.com/doyle199/AWS-Create-an-Amazon-Redshift-Cluster/blob/master/create_table_3.png)
 
 ![alt text](https://github.com/doyle199/AWS-Create-an-Amazon-Redshift-Cluster/blob/master/redshift_tables.png)
 
